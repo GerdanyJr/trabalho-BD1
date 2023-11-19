@@ -1,0 +1,5 @@
+CREATE TABLE Servico (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(255),
+    descricao VARCHAR(255)
+);

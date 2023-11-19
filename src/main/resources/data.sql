@@ -1,0 +1,10 @@
+INSERT INTO servico (id, nome, descricao) VALUES (1, 'Limpeza Residencial', 'Serviço de limpeza completa para residências, incluindo aspiração, limpeza de superfícies e remoção de poeira.');
+INSERT INTO servico (id, nome, descricao) VALUES (2, 'Manutenção de Jardim', 'Cuidado profissional para o seu jardim, incluindo poda de plantas, remoção de ervas daninhas e fertilização.');
+INSERT INTO servico (id, nome, descricao) VALUES (3, 'Instalação Elétrica', 'Serviço de instalação e reparo de sistemas elétricos residenciais, garantindo segurança e eficiência.');
+INSERT INTO servico (id, nome, descricao) VALUES (4, 'Assistência Técnica em Informática', 'Soluções especializadas para problemas de hardware e software em computadores e dispositivos.');
+INSERT INTO servico (id, nome, descricao) VALUES (5, 'Design de Interiores', 'Transformação de espaços interiores com foco na estética e funcionalidade, personalizando de acordo com suas preferências.');
+INSERT INTO servico (id, nome, descricao) VALUES (6, 'Serviço de Encanamento', 'Reparo e instalação de sistemas hidráulicos, solucionando vazamentos e garantindo o fluxo adequado de água.');
+INSERT INTO servico (id, nome, descricao) VALUES (7, 'Aulas Particulares de Música', 'Instrução personalizada em instrumentos musicais, adaptada ao seu nível de habilidade e preferências musicais.');
+INSERT INTO servico (id, nome, descricao) VALUES (8, 'Consultoria em Finanças Pessoais', 'Assessoria especializada para otimizar suas finanças pessoais, elaborar orçamentos e planejar investimentos.');
+INSERT INTO servico (id, nome, descricao) VALUES (9, 'Serviço de Buffet para Eventos', 'Catering profissional para eventos especiais, oferecendo uma variedade de pratos deliciosos e serviços personalizados.');
+INSERT INTO servico (id, nome, descricao) VALUES (10, 'Assessoria em Marketing Digital', 'Estratégias personalizadas para promover sua marca online, incluindo gestão de redes sociais e campanhas publicitárias digitais.');
