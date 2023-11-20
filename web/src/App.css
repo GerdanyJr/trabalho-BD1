@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#root {
+  --primary-color: red;
+  --label-color: #797979;
+  --secundary-color: #3775ED;
+  --hover-color: #3362be;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
