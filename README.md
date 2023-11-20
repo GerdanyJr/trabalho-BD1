@@ -10,6 +10,6 @@ Esse projeto foi desenvolvido para a obtensão de nota na disciplina de banco de
 - Murilo Anjos Leite **202211190020**
 - Raphael Régis De Araújo **202211190012**
 ## Documentação
-Para documentação da API foi utilizado o [swagger API](https://swagger.io), para acessar o console do swagger basta rodar o projeto e acessá-lo na url <http://localhost:8080/swagger-ui/index.html/>.
+Para documentação da API foi utilizado o [swagger API](https://swagger.io), para acessar o console do swagger basta rodar o projeto e acessá-lo na url <http://localhost:8080/swagger-ui/index.html>.
 
 Para acessar o console do H2 é necessário acessar a url <http://localhost:8080/h2>, após isso basta confirmar o login e terá acesso ao console do banco de dados da aplicação.
